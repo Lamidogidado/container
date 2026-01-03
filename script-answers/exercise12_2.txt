@@ -1,0 +1,19 @@
+Script started on 2026-01-03 00:41:09+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004hmuhammad-lamido-gidado@lamido:~/container$ dcker[K[K[K[Kockr[Ker run -it ubuntu bash
+[?2004l[?2004h]0;root@e8186866086f: /root@e8186866086f:/# [7mtouch /usr/src/app/index.js[27mtouch /usr/src/app/index.js
+[?2004ltouch: cannot touch '/usr/src/app/index.js': No such file or directory
+[?2004h]0;root@e8186866086f: /root@e8186866086f:/# [K[7mtouch /usr/src/app/index.js[27mtouch /usr/src/app/index.js
+[?2004ltouch: cannot touch '/usr/src/app/index.js': No such file or directory
+[?2004h]0;root@e8186866086f: /root@e8186866086f:/# [Kls
+[?2004l[0m[01;36mbin[0m   [01;34mdev[0m  [01;34mhome[0m  [01;36mlib64[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m  [30;42mtmp[0m  [01;34mvar[0m
+[01;34mboot[0m  [01;34metc[0m  [01;36mlib[0m   [01;34mmedia[0m  [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m
+[?2004h]0;root@e8186866086f: /root@e8186866086f:/# [7mmkdir -p /usr/src/app[27mmkdir -p /usr/src/app
+[?2004l[?2004h]0;root@e8186866086f: /root@e8186866086f:/# [7mtouch /usr/src/app/index.js[27mtouch /usr/src/app/index.js
+[?2004l[?2004h]0;root@e8186866086f: /root@e8186866086f:/# [K[7mls /usr/src/app/[27mls /usr/src/app/
+[?2004lindex.js
+[?2004h]0;root@e8186866086f: /root@e8186866086f:/# exit
+[?2004lexit
+[?2004hmuhammad-lamido-gidado@lamido:~/container$ exit
+[?2004lexit
+
+Script done on 2026-01-03 00:46:27+01:00 [COMMAND_EXIT_CODE="0"]
